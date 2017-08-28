@@ -1,6 +1,8 @@
 package config
 
-import "html/template"
+import (
+	"html/template"
+)
 
 // TPL init for templates
 var TPL *template.Template
