@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/FirusGuo/Golang-MVC/books"
 	"github.com/julienschmidt/httprouter"
-  "github.com/FirusGuo/Golang-MVC/books"
 )
 
 func main() {
